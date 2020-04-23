@@ -1,0 +1,3 @@
+rootProject.name='observablist'
+include ':app'
+include ':observablist'
